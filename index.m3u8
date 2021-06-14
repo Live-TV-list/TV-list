@@ -123,16 +123,6 @@ http://ivi.bupt.edu.cn/hls/cqhd.m3u8
 http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
 #EXTINF:-1 ,浙江卫视蓝光3
 http://111.12.102.68:6610/PLTV/77777777/224/3221225695/index.m3u8?
-#EXTINF:-1 ,浙江影视娱乐FHD
-http://yd-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8?k=79b277c166767a9e072b9629b446d4e9&t=1577153637
-#EXTINF:-1 ,浙江6套FHD
-http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=7902d458851930a3cab9763349e1425c&t=1577153702
-#EXTINF:-1 ,浙江公共FHD
-http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k=4812130c6c3788cf5c6a6ba64a47678c&t=1577153743
-#EXTINF:-1 ,浙江经视FHD
-http://yd-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8?k=3bc164885721feecc386b066a39b8567&t=1577153471
-#EXTINF:-1 ,浙江国际FHD
-http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?k=48877e6c28c2a0215eb8712eb48b888d&t=1577153884
 #EXTINF:-1 ,深圳卫视蓝光1
 http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
 #EXTINF:-1 ,深圳卫视蓝光2
@@ -350,8 +340,6 @@ http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,爱幼教
 http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,安徽卫视高清
-http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=02&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
 #EXTINF:-1 ,安徽影视
 http://zbbf2.ahtv.cn/live/756.m3u8
 #EXTINF:-1 ,安徽综艺
@@ -406,10 +394,6 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 http://39.134.39.37/PLTV/88888888/224/3221226172/index.m3u8
 #EXTINF:-1 ,点掌财经
 http://cclive2.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 ,迭部电视台
-http://117.156.28.119/270000001111/1110000154/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://223.110.243.138/ott.js.chinamobile.com/PLTV/3/224/3221227208/index.m3u8
 #EXTINF:-1 ,东阳新闻综合
 http://stream.dybtv.com/xwzh/GQ/live.m3u8
 #EXTINF:-1 ,东阳影视生活
@@ -492,20 +476,6 @@ http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY
 http://111.12.102.68:6610/PLTV/77777777/224/3221225699/index.m3u8?
 #EXTINF:-1 ,金鹰卡通
 http://111.12.102.68:6610/PLTV/77777777/224/3221225702/index.m3u8?
-#EXTINF:-1 ,晋城公共
-http://live1.jcbctv.com:1935/live/GGPD/1000K/tzwj_video.m3u8
-#EXTINF:-1 ,晋城新闻
-http://live1.jcbctv.com:1935/live/XWZH/1000K/tzwj_video.m3u8
-#EXTINF:-1 ,晋江电视FHD
-http://stream.jinjiang.tv/1/sd/live.m3u8
-#EXTINF:-1 ,晋江公共HD
-http://live.china-latv.com/channel2/sd/live.m3u8
-#EXTINF:-1 ,京视剧场
-http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227040/index.m3u8
-#EXTINF:-1 ,睛彩开封
-http://117.158.206.60:9080/kaifeng/kftv4.m3u8
-#EXTINF:-1 ,靖江新闻HD
-http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
 #EXTINF:-1 ,卡酷少儿
 http://111.12.102.68:6610/PLTV/77777777/224/3221225730/index.m3u8?
 #EXTINF:-1 ,南京新闻综合
@@ -546,10 +516,6 @@ https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 ,厦门卫视
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
-#EXTINF:-1 ,山东德州公共台
-http://video.dztv.tv:1935/live/dzgg_gq/playlist.m3u8
-#EXTINF:-1 ,山东德州综合台
-http://video.dztv.tv:1935/live/xwzh_gq/playlist.m3u8
 #EXTINF:-1 ,山东教育卫视
 http://111.12.102.68:6610/PLTV/77777777/224/3221225708/index.m3u8?
 #EXTINF:-1 ,山东卫视高清
@@ -590,8 +556,6 @@ http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8
 #EXTINF:-1 ,上海影视
 http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
-#EXTINF:-1 ,深圳卫视高清
-http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=42&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
 #EXTINF:-1 ,生活时尚HD
 http://39.134.168.91/PLTV/1/224/3221225498/index.m3u8
 #EXTINF:-1 ,四川经济
